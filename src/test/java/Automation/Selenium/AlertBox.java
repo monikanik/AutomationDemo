@@ -36,6 +36,9 @@ System.setProperty("webdriver.chrome.driver", "C:\\softwares\\chromedriver.exe")
 			System.out.println(driver.switchTo().alert().getText());
 			
 			driver.switchTo().alert().accept();
+			
+			//1.checking in code into git..
+			//2.checking in code into git..
 
 	}
 
