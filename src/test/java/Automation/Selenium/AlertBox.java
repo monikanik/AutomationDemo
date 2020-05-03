@@ -39,9 +39,10 @@ System.setProperty("webdriver.chrome.driver", "C:\\softwares\\chromedriver.exe")
 			
 			//1.checking in code into git..
 			//2.checking in code into git..
-			//Branch code..
+			//branching
 
 			//4 checking in code into git ..
+			//5.checking in code into git..
 	}
 
 }
