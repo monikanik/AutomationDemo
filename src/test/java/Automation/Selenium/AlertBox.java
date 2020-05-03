@@ -38,7 +38,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\softwares\\chromedriver.exe")
 			driver.switchTo().alert().accept();
 			
 			//1.checking in code into git..
-			//2.
+		
 			//branching
 
 			//4 checking in code into git ..
